@@ -1,0 +1,14 @@
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.Form1.resources
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\bin\Debug\TPAnimales.exe.config
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\bin\Debug\TPAnimales.exe
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\bin\Debug\TPAnimales.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\bin\Debug\BIbliotecaAnimales.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\bin\Debug\BIbliotecaAnimales.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.exe
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\TPAnimales\obj\Debug\TPAnimales.pdb

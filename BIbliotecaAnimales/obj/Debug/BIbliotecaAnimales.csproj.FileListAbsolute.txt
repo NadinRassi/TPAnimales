@@ -1,0 +1,6 @@
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\obj\Debug\BIbliotecaAnimales.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\obj\Debug\BIbliotecaAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\bin\Debug\BIbliotecaAnimales.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\bin\Debug\BIbliotecaAnimales.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\obj\Debug\BIbliotecaAnimales.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\PracticaAnimales01\BIbliotecaAnimales\obj\Debug\BIbliotecaAnimales.pdb
